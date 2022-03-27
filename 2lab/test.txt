@@ -1,0 +1,13 @@
+PUSH 2
+PUSH 8
+MUL
+PUSH -1
+PUSH -9
+DIVIDE
+PLUS
+SQRT
+DEFINE A -13
+PUSH A
+MINUS
+# результат должен быть равен -18
+PRINT
